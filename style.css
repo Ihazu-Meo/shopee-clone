@@ -32,6 +32,11 @@ ul{
     color: whitesmoke;
 }
 
+.shopee-header a:hover{
+    text-decoration: none;
+    color: rgb(252, 137, 117);
+}
+
 .divider{
     width: 2px;
     background-color: rgba(248, 150, 105, 0.685);
@@ -142,6 +147,10 @@ ul{
     border: 1px solid rgb(240, 49, 24);
     color: rgb(235, 96, 53);
     right: 0px;
+}
+
+.nohover a:hover{
+    color: inherit;
 }
 
 .icon {
