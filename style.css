@@ -167,3 +167,33 @@ ul{
     width: 145px;
     height: auto;
 }
+
+.main-container{
+    background-color: #f4f4f4;
+}
+
+.section1{
+    background-color: white;
+}
+.container-section1{
+    width: 1200px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.container-section2{
+    width: 1200px;
+    margin: auto;
+}
+
+.banner-section{
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.banner-right{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
